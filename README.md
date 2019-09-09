@@ -1,4 +1,4 @@
-### salary-prediction-portfolio
+### Salary-Prediction-Portfolio
  
 In this project I had some data about job postings with salaries that I used to build a model that would predict salaries for other job postings.
 
